@@ -5,7 +5,7 @@ Min Thant Personal portfolio website
 
 This is the source code for my personal portfolio website, hosted for free using **GitHub Pages**. 
 
-🔗 **Live Link:** https://Shawdoash.github.io
+🔗 **Live Link:** https://shawdoash.github.io/
 
 ## Features
 - **Responsive Design:** Optimized for mobile, tablet, and desktop screens.
