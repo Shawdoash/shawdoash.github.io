@@ -22,4 +22,4 @@ This is the source code for my personal portfolio website, hosted for free using
 - `style.css` - Custom styling rules.
 
 ## Author
-- **Min Thant** - [GitHub Profile](https://github.com)
+- **Min Thant** - [GitHub Profile](https://Shawdoash.github.com)
